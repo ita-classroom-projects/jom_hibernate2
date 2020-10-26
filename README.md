@@ -1,7 +1,7 @@
 # Java Online Marathon
 ## Web Application ‘ToDo List’
 
-Implement all needed repositories and servisec
+Implement all needed repositories and services
 
 *You can use a template project as a basis*
 
