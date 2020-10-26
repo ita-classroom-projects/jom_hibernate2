@@ -3,5 +3,5 @@
 
 Implement all needed repositories and servisec
 
-*You can use a template project as a basis
+*You can use a template project as a basis*
 Submit links to your Github repository and make a short video (2-5 minutes) where demonstrate the functionality as the result of your work
