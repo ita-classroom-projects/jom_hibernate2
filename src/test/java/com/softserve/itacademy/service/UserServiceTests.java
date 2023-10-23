@@ -27,6 +27,6 @@ public class UserServiceTests {
     public void getAllUsersTest() {
         int expectedSize = 3;
         List<User> users = userService.getAll();
-        assertTrue(expectedSize <= users.size(), String.format("At least %d users shuold be in users table", expectedSize));
+        assertTrue(users.size() >= expectedSize, String.format("At least %d users should be in the USERS table", expectedSize));
     }
 }
